@@ -10,3 +10,5 @@ How to run the project:
 - Click on link (Local:   http://localhost:4173/)
 
 
+
+You can see the site here https://main--gorgeous-seahorse-3d133e.netlify.app/
